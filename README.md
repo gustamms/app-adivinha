@@ -1,2 +1,4 @@
 # app-adivinha
- Um app android simples, para ser melhorado a questão visual e usabilidade.
+Uma pequena aplicação utilizando a linguagem nativa java para desenolvimento android.
+
+Aplicação de um jogo de apostas, onde ao inserir apostas e clicar para "Jogar", conseguirão ver quem chegou mais próximo ao valor gerado.
